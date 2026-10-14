@@ -218,3 +218,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Arquivos de dados confidenciais
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+*.json
+*.xml
+*.env
+*.key
+*.pem
+*.cer
+*.crt
+*.p12
+*.pfx
+
+# Arquivos de cache e temporários
+.cache/
+*.tmp
+*.log
+
+.serena/*
